@@ -1,0 +1,8 @@
+1) Criar um método EscolherPapel na classe mais adequada.
+2) Mudar o nome do jogador 1 para Primeiro Jogador.
+3) Mudar o nome do jogador 2 para Segundo Jogador.
+4) Fazer com que o nome do jogador não comece com a palavra jogador.
+5) Corrigir o método que decide qual jogador ganhou.
+6) Fazer com que o jogo tenha três rodadas.
+7) Fazer com que as escolhas sejam randômicas.
+8) Fazer com que o jogo seja uma partida "melhor de três".

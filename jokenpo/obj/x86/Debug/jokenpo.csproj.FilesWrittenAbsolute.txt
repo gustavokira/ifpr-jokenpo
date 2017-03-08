@@ -1,0 +1,5 @@
+/Users/gustavo/sandbox/ifpr/jokenpo/jokenpo/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gustavo/sandbox/ifpr/jokenpo/jokenpo/bin/Debug/jokenpo.exe.mdb
+/Users/gustavo/sandbox/ifpr/jokenpo/jokenpo/bin/Debug/jokenpo.exe
+/Users/gustavo/sandbox/ifpr/jokenpo/jokenpo/obj/x86/Debug/jokenpo.exe
+/Users/gustavo/sandbox/ifpr/jokenpo/jokenpo/obj/x86/Debug/jokenpo.exe.mdb
