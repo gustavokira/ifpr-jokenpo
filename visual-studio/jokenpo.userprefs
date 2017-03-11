@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{A5576698-C209-4BB3-ACD7-21BB44ECC158}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="jokenpo/App.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="jokenpo/Jokenpo.cs">
     <Files>
-      <File FileName="jokenpo/App.cs" Line="26" Column="1" />
-      <File FileName="jokenpo/Jokenpo.cs" Line="44" Column="1" />
-      <File FileName="jokenpo/Jogador.cs" Line="21" Column="4" />
+      <File FileName="jokenpo/App.cs" Line="18" Column="25" />
+      <File FileName="jokenpo/Jokenpo.cs" Line="40" Column="5" />
+      <File FileName="jokenpo/Jogador.cs" Line="32" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.jokenpo PreferredExecutionTarget="MonoDevelop.Default" />

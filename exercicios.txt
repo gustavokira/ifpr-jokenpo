@@ -6,3 +6,5 @@
 6) Fazer com que o jogo tenha três rodadas.
 7) Fazer com que as escolhas sejam randômicas.
 8) Fazer com que o jogo seja uma partida "melhor de três".
+
+Para a versão online: http://rextester.com/
