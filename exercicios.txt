@@ -7,4 +7,7 @@
 7) Fazer com que as escolhas sejam randômicas.
 8) Fazer com que o jogo seja uma partida "melhor de três".
 
-Para a versão online: http://rextester.com/
+Para a versão online: 
+https://dotnetfiddle.net/
+https://repl.it/
+http://rextester.com/
